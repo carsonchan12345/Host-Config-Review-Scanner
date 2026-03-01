@@ -1,0 +1,31 @@
+# Compiled binaries
+scanner.exe
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test output
+*.test
+
+# Coverage
+*.out
+coverage.html
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Rule files (licensed content - obtain separately)
+Rules/
+
+# Build output
+dist/
+build/
+
+# Report output
+*.html
