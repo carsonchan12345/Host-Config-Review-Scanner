@@ -1,6 +1,6 @@
 # Host-Config-Review-Scanner
 
-A Go-based engine that parses Tenable Nessus `.audit` rule files and runs local host configuration review scans on **Windows** and **Linux**. Results are rendered as a self-contained HTML report. Allow automatic scan of host configuration or image review when your host don't have access to Nessus.
+A Go-based engine that parses Tenable Nessus `.audit` rule files and runs local host configuration review scans on **Windows** and **Linux**. Results are rendered as a self-contained HTML report. Allow automatic scan of host or image configuration hardening when your host doesn't have access to Nessus.
 (It is a vibe code project)
 
 ![Report screenshot](docs/images/report_screenshot.png)
